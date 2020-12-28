@@ -1203,6 +1203,7 @@ textarea:focus {
     display: inline-block;
     margin: 0 10px 0 0;
 }
+
 .footer1-icon {
     margin: 20px 0 0 0;
 }
@@ -1215,6 +1216,12 @@ textarea:focus {
 .subscribe-btn {
     display: block;
     text-align: left !important;
+}
+.socialIcontwitter{
+    width:40px;
+}
+.socialIconlinkedin{
+    width:38px;
 }
 /*footer form*/
 

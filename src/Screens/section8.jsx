@@ -66,11 +66,11 @@ export const Section8 = () => {
                         </div>
                         <ul className="content-ul footer1-icon">
                             <li><a href="https://twitter.com/oronetworks">
-                                <img src="assets/images/40x40x2.png"
-                                     alt="40x40x2"/></a></li>
+                                <img src="assets/images/twitter.png"
+                                     alt="40x40x2"  className="socialIcontwitter"/></a></li>
                             <li>
                                 <a href="https://www.linkedin.com/company/oronetworks/">
-                                    <img src="assets/images/40x40x1.png" alt="40x40x1"/></a></li>
+                                    <img src="assets/images/linked.png" alt="40x40x1" className="socialIconlinkedin"/></a></li>
 
                         </ul>
                     </div>
