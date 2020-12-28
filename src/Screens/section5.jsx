@@ -6,8 +6,8 @@ export const Section5 = () => {
             <div className="container">
                 <div className="heading-div-1 head-h-div text-center">
                     <h2>AI Assistants/ Chatbots</h2>
-                    <p className="text">Scale your business by adding a virtual assistant with Artificial
-                        Intelligence</p>
+                    <h6 className="text">Scale your business by adding a virtual assistant with Artificial
+                        Intelligence</h6>
                     <div className="underline"/>
                 </div>
                 <div className="row news-row-1">
