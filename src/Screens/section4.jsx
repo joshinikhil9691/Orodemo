@@ -14,7 +14,7 @@ export const Section4 = () => {
                                 <div className="testimonial-name-div">
                                     <div className="list-div">
                                         <div className="list-div-left">
-                                            <img src="../../public/icon1.png" alt="80x80x1"/>
+                                            <img src="assets/img/icon1.png" alt="80x80x1"/>
                                         </div>
                                         <div className="list-div-body">
                                             <p className="testimonial-name">Safe Drive AI</p>
@@ -37,7 +37,7 @@ export const Section4 = () => {
                                 <div className="testimonial-name-div">
                                     <div className="list-div">
                                         <div className="list-div-left">
-                                            <img src="../../public/icon2.png" alt="80x80x2"/>
+                                            <img src="assets/img/icon2.png" alt="80x80x2"/>
                                         </div>
                                         <div className="list-div-body">
                                             <p className="testimonial-name">Sound AI</p>
@@ -63,7 +63,7 @@ export const Section4 = () => {
                                 <div className="testimonial-name-div">
                                     <div className="list-div">
                                         <div className="list-div-left">
-                                            <img src="../../public/icon3.png" alt="80x80x3"/>
+                                            <img src="assets/img/icon3.png" alt="80x80x3"/>
                                         </div>
                                         <div className="list-div-body">
                                             <p className="testimonial-name">Air Quality AI</p>
@@ -85,7 +85,7 @@ export const Section4 = () => {
                                 <div className="testimonial-name-div">
                                     <div className="list-div">
                                         <div className="list-div-left">
-                                            <img src="../../public/icon4.png" alt="80x80x4"/>
+                                            <img src="assets/img/icon4.png" alt="80x80x4"/>
                                         </div>
                                         <div className="list-div-body">
                                             <p className="testimonial-name">Sensor AI</p>
